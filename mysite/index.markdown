@@ -9,6 +9,11 @@ layout: default
       <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       <p><em>{{ post.shortdate }} | {{ post.categories | join: ', ' }}</em></p>
       {{ post.excerpt }}
-    <hr>
+      {% if post.content.size > post.excerpt.size %}
+        <p><a href="{{ post.url }}">(Read more...)</a></p>
+      {% endif %}
+    {% if forloop.last == false %}
+      <hr>
+    {% endif %}
   {% endfor %}
   </main>

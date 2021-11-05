@@ -1,10 +1,8 @@
 ---
-layout: default
-title:  "Testing..."
+layout: post
+title:  "Testing, testing..."
 date:   2021-11-04 00:19:44 +1000
 shortdate: 2021-11-04
-categories: [testing, everything]
+categories: [ramblings]
 ---
-Testing, testing...
-
-I decided I needed a blog I control, and that doesn't drive me crazy to write for. So, here we are, my own blog! Not quite sure yet where this will go, but I guess we'll see. :D
+I decided I needed a blog, and that doesn't drive me crazy to write for (like Medium did). So, here we are, my own blog! Not quite sure yet where this will go, but I guess we'll see. :D I'm currently working on some thoughts from the recent Splatfest event I helped run for Oceanink, and then I'll probably work on some articles about why I'm moving from Twitch to Youtube.
